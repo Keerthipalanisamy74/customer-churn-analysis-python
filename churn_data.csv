@@ -1,0 +1,9 @@
+CustomerID,Age,Subscription,MonthlyCharges,Churn
+1,25,Basic,29,No
+2,40,Premium,59,Yes
+3,35,Standard,49,No
+4,50,Premium,79,Yes
+5,28,Basic,25,No
+6,33,Standard,45,No
+7,45,Premium,70,Yes
+8,23,Basic,20,No
